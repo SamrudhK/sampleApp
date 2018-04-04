@@ -1,0 +1,7 @@
+Git hub is repository
+git bash
+
+
+git add .
+git commit
+
